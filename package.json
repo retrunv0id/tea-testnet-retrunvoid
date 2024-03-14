@@ -1,6 +1,5 @@
 {
   "name": "tea-testnet-retrunvoid",
-  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -16,7 +15,8 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.1",
     "react-dom": "^18.2.0",
-    "tea-retrunvoid": "^0.0.2"
+    "tea-retrunvoid": "^0.0.2",
+    "tea-ryanaljaras12": "^1.2.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
